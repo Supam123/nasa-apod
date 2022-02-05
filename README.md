@@ -1,5 +1,5 @@
 # 
-# [Click on me to the mooooooooooooooooooooon! ](https://tothemoooooon.netlify.app/)
+# [Click on me to the moon! ](https://tothemoooooon.netlify.app/)
 
 or
 
